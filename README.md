@@ -42,7 +42,7 @@ body {
 	</div>
 	</div>
 <div class="dropdown">
-    <button class="dropbtn">Coding Projects
+    <button class="dropbtn">Hardware Projects
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -52,6 +52,16 @@ body {
 	   <a href="#">Kitty Bot</a>
 	</div>
 	</div>
-</body>
-	 
+	
+<div class="banners">
+	<div id="footer">
+		<h1>Socials</h1>
+		<a align="left" href="https://github.com/cstuart1310" >Github</a>	
+		<a align="left" href="https://www.youtube.com/callumstuart1310" >Youtube</a>	
+		<a align="left" href="https://twitter.com/anomalousbot?lang=en" >Anomalous_Bot</a>	
+		<a align="left" href="https://twitter.com/kittybot127001" >Kitty_Bot</a>	
+	</div>
+</div>
+
+</body>	 
 </html>
