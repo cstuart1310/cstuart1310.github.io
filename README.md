@@ -5,7 +5,7 @@
 <link href="styles.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
-	background-image: url(backgrounds/gateway.png);
+	background-image: url(gateway.png);
 }
 </style>
 <title>Callum's Blog - Home</title>
@@ -35,10 +35,10 @@ body {
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Anomalous Bot</a>
-      <a href="#">Major Bot</a>
-      <a href="#">Cutesy Bot</a>
-	   <a href="#">Kitty Bot</a>
+      <a href="#">Site 13</a>
+      <a href="#">Gateway</a>
+      <a href="#">Sky Portal</a>
+	   <a href="#">2019 Portfolio</a>
 	</div>
 	</div>
 <div class="dropdown">
